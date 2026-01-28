@@ -2,7 +2,7 @@
 
 This example allows you to deploy a remote MCP server that doesn't require authentication on Cloudflare Workers. 
 
-hello
+goodbye
 
 ## Get started: 
 
